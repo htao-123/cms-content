@@ -1,6 +1,6 @@
 ---
-name: voidnap
-title: AI全栈工程师
+name: 
+title: 
 bio: 拥抱AI，提升自我
 email: 2931201618@qq.com
 github: https://github.com/htao-123
@@ -27,4 +27,3 @@ React，Vue，JavaScript，Next.js
 
 ## 后端开发
 Python，fastapi，node，express
-
