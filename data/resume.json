@@ -1,45 +1,51 @@
 {
-  "summary": "",
-  "experience": [
-    {
-      "id": "exp-1781761675609-5xel7f",
-      "title": "",
-      "subtitle": "",
-      "period": "",
-      "location": "",
-      "description": "",
-      "highlights": [],
-      "tags": []
-    }
-  ],
+  "summary": "目标方向为跨端客户端/全栈开发，具备从产品需求拆解、Flutter 客户端实现、本地存储能力建设到 Android 与 macOS 多架构打包发布的完整项目经验。代表项目 Shanion 聚焦本地优先的碎片记录场景，覆盖文本、链接、多媒体附件、设备信息与后续智能整理能力。",
+  "experience": [],
   "projects": [
     {
-      "id": "rproj-1781761685492-jo21go",
+      "id": "resume-project-1781578216350",
       "sourceType": "linked",
+      "projectId": "project-1781578216350",
       "title": "Shanion",
-      "role": "",
+      "role": "跨端客户端开发 / 全栈实现",
       "period": "",
-      "description": "本地优先碎片记录",
-      "highlights": [],
+      "description": "多端本地优先碎片记录客户端，围绕文本、链接、图片、视频、语音和文件等碎片内容，构建离线可用、可检索、可扩展的记录体验。",
+      "highlights": [
+        "负责核心记录模型与本地优先交互设计，围绕文本内容、附件列表、创建时间、位置和设备信息组织数据。",
+        "实现 Android 与 macOS 多端发布链路，按 arm64-v8a、armeabi-v7a、x86_64、Apple Silicon 和 Intel 分别产出安装包。",
+        "围绕主题层级、批量操作、导入导出、回收站和覆盖安装等真实使用路径持续完善客户端功能可靠性。",
+        "预留检索、同步和智能整理能力，保证后续 AI 归纳与多端数据流转可以在现有数据结构上扩展。"
+      ],
       "tags": [
         "Dart",
+        "Flutter",
         "Kotlin",
-        "C++",
         "Swift",
-        "CMake",
-        "Shell",
         "Rust",
-        "Ruby",
-        "Python",
-        "C",
-        "PowerShell",
-        "Objective-C"
+        "C++",
+        "CMake",
+        "Shell"
       ],
-      "link": "",
-      "showLink": true,
-      "projectId": "project-1781578216350"
+      "link": "https://github.com/htao-123/Shanion-releases/releases/tag/v1.0.0%2B1",
+      "showLink": true
     }
   ],
   "education": [],
-  "skills": []
+  "skills": [
+    {
+      "id": "skill-client",
+      "category": "客户端与跨端开发",
+      "items": ["Flutter", "Dart", "Kotlin", "Swift", "Android", "macOS"]
+    },
+    {
+      "id": "skill-native",
+      "category": "本地能力与工程化",
+      "items": ["Rust", "C++", "CMake", "Shell", "多架构打包", "本地存储"]
+    },
+    {
+      "id": "skill-product",
+      "category": "产品实现能力",
+      "items": ["本地优先", "附件管理", "导入导出", "回收站", "主题层级", "AI 整理"]
+    }
+  ]
 }
