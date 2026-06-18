@@ -1,0 +1,45 @@
+{
+  "summary": "",
+  "experience": [
+    {
+      "id": "exp-1781761675609-5xel7f",
+      "title": "",
+      "subtitle": "",
+      "period": "",
+      "location": "",
+      "description": "",
+      "highlights": [],
+      "tags": []
+    }
+  ],
+  "projects": [
+    {
+      "id": "rproj-1781761685492-jo21go",
+      "sourceType": "linked",
+      "title": "Shanion",
+      "role": "",
+      "period": "",
+      "description": "本地优先碎片记录",
+      "highlights": [],
+      "tags": [
+        "Dart",
+        "Kotlin",
+        "C++",
+        "Swift",
+        "CMake",
+        "Shell",
+        "Rust",
+        "Ruby",
+        "Python",
+        "C",
+        "PowerShell",
+        "Objective-C"
+      ],
+      "link": "",
+      "showLink": true,
+      "projectId": "project-1781578216350"
+    }
+  ],
+  "education": [],
+  "skills": []
+}
