@@ -1,51 +1,129 @@
 {
-  "summary": "目标方向为跨端客户端/全栈开发，具备从产品需求拆解、Flutter 客户端实现、本地存储能力建设到 Android 与 macOS 多架构打包发布的完整项目经验。代表项目 Shanion 聚焦本地优先的碎片记录场景，覆盖文本、链接、多媒体附件、设备信息与后续智能整理能力。",
+  "summary": "拥抱AI，提升自我。目标方向为agent全栈工程师，具备从需求拆解、功能实现到部署交付的完整项目经验。代表项目包括 voidnap-cms、voidpix、Shanion。熟悉 TypeScript、CSS、JavaScript、Dart、Kotlin、C++、Swift、CMake 等技术栈。",
   "experience": [],
   "projects": [
+    {
+      "id": "resume-project-1770465390884",
+      "sourceType": "linked",
+      "projectId": "project-1770465390884",
+      "title": "voidnap-cms",
+      "role": "agent全栈工程师",
+      "period": "",
+      "description": "A Next.js CMS with GitHub integration",
+      "highlights": [
+        "围绕A Next.js CMS with GitHub integration拆解核心使用场景，完成产品功能的功能设计、开发与体验打磨。",
+        "基于 TypeScript、CSS、JavaScript 构建主要能力，覆盖界面交互、数据处理和多端适配等环节。",
+        "结合项目文档沉淀实现细节，保证功能可维护、可迭代。"
+      ],
+      "tags": [
+        "TypeScript",
+        "CSS",
+        "JavaScript"
+      ],
+      "link": "https://voidnap-cms.vercel.app",
+      "showLink": true
+    },
+    {
+      "id": "resume-project-1770536715630",
+      "sourceType": "linked",
+      "projectId": "project-1770536715630",
+      "title": "voidpix",
+      "role": "agent全栈工程师",
+      "period": "",
+      "description": "VoidPix 是一款完全免费的在线图片处理工具，所有图片处理均在您的浏览器本地完成，我们不会上传或存储您的任何图片，确保您的隐私安全。",
+      "highlights": [
+        "围绕VoidPix 是一款完全免费的在线图片处理工具，所有图片处理均在您的浏览器本地完成，我们不会上传或存储您的任何图片，确保您的隐私安全。拆解核心使用场景，完成产品功能的功能设计、开发与体验打磨。",
+        "基于 TypeScript、CSS、JavaScript 构建主要能力，覆盖界面交互、数据处理和多端适配等环节。",
+        "结合项目文档沉淀实现细节，保证功能可维护、可迭代。"
+      ],
+      "tags": [
+        "TypeScript",
+        "CSS",
+        "JavaScript"
+      ],
+      "link": "https://htao-123.github.io/voidpix/",
+      "showLink": true
+    },
     {
       "id": "resume-project-1781578216350",
       "sourceType": "linked",
       "projectId": "project-1781578216350",
       "title": "Shanion",
-      "role": "跨端客户端开发 / 全栈实现",
+      "role": "agent全栈工程师",
       "period": "",
-      "description": "多端本地优先碎片记录客户端，围绕文本、链接、图片、视频、语音和文件等碎片内容，构建离线可用、可检索、可扩展的记录体验。",
+      "description": "本地优先碎片记录",
       "highlights": [
-        "负责核心记录模型与本地优先交互设计，围绕文本内容、附件列表、创建时间、位置和设备信息组织数据。",
-        "实现 Android 与 macOS 多端发布链路，按 arm64-v8a、armeabi-v7a、x86_64、Apple Silicon 和 Intel 分别产出安装包。",
-        "围绕主题层级、批量操作、导入导出、回收站和覆盖安装等真实使用路径持续完善客户端功能可靠性。",
-        "预留检索、同步和智能整理能力，保证后续 AI 归纳与多端数据流转可以在现有数据结构上扩展。"
+        "围绕本地优先碎片记录拆解核心使用场景，完成跨端应用的功能设计、开发与体验打磨。",
+        "基于 Dart、Kotlin、C++、Swift、CMake、Shell 构建主要能力，覆盖界面交互、数据处理和多端适配等环节。",
+        "结合项目文档沉淀实现细节，保证功能可维护、可迭代。"
       ],
       "tags": [
         "Dart",
-        "Flutter",
         "Kotlin",
-        "Swift",
-        "Rust",
         "C++",
+        "Swift",
         "CMake",
-        "Shell"
+        "Shell",
+        "Rust",
+        "Ruby",
+        "Python",
+        "C",
+        "PowerShell",
+        "Objective-C"
       ],
-      "link": "https://github.com/htao-123/Shanion-releases/releases/tag/v1.0.0%2B1",
+      "link": "",
       "showLink": true
     }
   ],
-  "education": [],
+  "education": [
+    {
+      "id": "edu-1782023827837-tvpnco",
+      "title": "xxx大学",
+      "subtitle": "学士",
+      "period": "2100-2200",
+      "location": "火星",
+      "description": "1. xxxxxx\n2. xxxxxxxx"
+    }
+  ],
   "skills": [
     {
       "id": "skill-client",
       "category": "客户端与跨端开发",
-      "items": ["Flutter", "Dart", "Kotlin", "Swift", "Android", "macOS"]
+      "items": [
+        "Dart",
+        "Kotlin",
+        "C++",
+        "Swift",
+        "CMake",
+        "Objective-C"
+      ]
     },
     {
-      "id": "skill-native",
-      "category": "本地能力与工程化",
-      "items": ["Rust", "C++", "CMake", "Shell", "多架构打包", "本地存储"]
+      "id": "skill-frontend",
+      "category": "前端开发",
+      "items": [
+        "TypeScript",
+        "JavaScript"
+      ]
     },
     {
-      "id": "skill-product",
-      "category": "产品实现能力",
-      "items": ["本地优先", "附件管理", "导入导出", "回收站", "主题层级", "AI 整理"]
+      "id": "skill-backend",
+      "category": "后端与工程化",
+      "items": [
+        "Shell",
+        "Rust",
+        "Python"
+      ]
+    },
+    {
+      "id": "skill-other",
+      "category": "其他技术",
+      "items": [
+        "CSS",
+        "Ruby",
+        "C",
+        "PowerShell"
+      ]
     }
   ]
 }
