@@ -1,24 +1,29 @@
 {
-  "summary": "拥抱AI，提升自我。目标方向为agent全栈工程师，具备从需求拆解、功能实现到部署交付的完整项目经验。代表项目包括 voidnap-cms、voidpix、Shanion。熟悉 TypeScript、CSS、JavaScript、Dart、Kotlin、C++、Swift、CMake 等技术栈。",
+  "summary": "具备跨端应用开发能力的软件工程师，熟练运用 TypeScript、CSS 和 JavaScript 等技术，能独立完成复杂的前端项目，如 Voidnap CMS 和 VoidPix。",
   "experience": [],
   "projects": [
     {
       "id": "resume-project-1770465390884",
       "sourceType": "linked",
       "projectId": "project-1770465390884",
-      "title": "voidnap-cms",
-      "role": "agent全栈工程师",
+      "title": "Voidnap CMS",
+      "role": "前端开发",
       "period": "",
-      "description": "A Next.js CMS with GitHub integration",
+      "description": "基于 GitHub 的个人网站内容管理系统，支持项目管理、博客发布和个人简历展示。",
       "highlights": [
-        "围绕A Next.js CMS with GitHub integration拆解核心使用场景，完成产品功能的功能设计、开发与体验打磨。",
-        "基于 TypeScript、CSS、JavaScript 构建主要能力，覆盖界面交互、数据处理和多端适配等环节。",
-        "结合项目文档沉淀实现细节，保证功能可维护、可迭代。"
+        "负责设计并实现基于 Next.js 的 CMS 架构，支持 GitHub OAuth 登录和数据存储。",
+        "封装了 Markdown 渲染库，优化了文章分类管理功能。",
+        "接入智谱 AI GLM 4 Flash 模型，实现 AI 智能简介生成。",
+        "构建响应式设计，适配桌面、平板和移动设备。"
       ],
       "tags": [
         "TypeScript",
         "CSS",
-        "JavaScript"
+        "JavaScript",
+        "Next.js",
+        "GitHub OAuth",
+        "Markdown",
+        "AI"
       ],
       "link": "https://voidnap-cms.vercel.app",
       "showLink": true
@@ -27,51 +32,25 @@
       "id": "resume-project-1770536715630",
       "sourceType": "linked",
       "projectId": "project-1770536715630",
-      "title": "voidpix",
-      "role": "agent全栈工程师",
+      "title": "VoidPix",
+      "role": "前端开发",
       "period": "",
-      "description": "VoidPix 是一款完全免费的在线图片处理工具，所有图片处理均在您的浏览器本地完成，我们不会上传或存储您的任何图片，确保您的隐私安全。",
+      "description": "完全免费的在线图片处理工具，所有处理均在本地完成，确保用户隐私安全。",
       "highlights": [
-        "围绕VoidPix 是一款完全免费的在线图片处理工具，所有图片处理均在您的浏览器本地完成，我们不会上传或存储您的任何图片，确保您的隐私安全。拆解核心使用场景，完成产品功能的功能设计、开发与体验打磨。",
-        "基于 TypeScript、CSS、JavaScript 构建主要能力，覆盖界面交互、数据处理和多端适配等环节。",
-        "结合项目文档沉淀实现细节，保证功能可维护、可迭代。"
+        "设计并实现了基于 TypeScript 和 Canvas API 的图片处理流程。",
+        "封装了图片格式转换、压缩和水印功能，提升用户体验。",
+        "接入响应式设计，支持桌面端和移动端。",
+        "优化了 UI 组件库，提升界面美观和易用性。"
       ],
       "tags": [
         "TypeScript",
         "CSS",
-        "JavaScript"
+        "JavaScript",
+        "Canvas API",
+        "响应式设计",
+        "UI 组件库"
       ],
       "link": "https://htao-123.github.io/voidpix/",
-      "showLink": true
-    },
-    {
-      "id": "resume-project-1781578216350",
-      "sourceType": "linked",
-      "projectId": "project-1781578216350",
-      "title": "Shanion",
-      "role": "agent全栈工程师",
-      "period": "",
-      "description": "本地优先碎片记录",
-      "highlights": [
-        "围绕本地优先碎片记录拆解核心使用场景，完成跨端应用的功能设计、开发与体验打磨。",
-        "基于 Dart、Kotlin、C++、Swift、CMake、Shell 构建主要能力，覆盖界面交互、数据处理和多端适配等环节。",
-        "结合项目文档沉淀实现细节，保证功能可维护、可迭代。"
-      ],
-      "tags": [
-        "Dart",
-        "Kotlin",
-        "C++",
-        "Swift",
-        "CMake",
-        "Shell",
-        "Rust",
-        "Ruby",
-        "Python",
-        "C",
-        "PowerShell",
-        "Objective-C"
-      ],
-      "link": "",
       "showLink": true
     }
   ],
@@ -87,50 +66,25 @@
   ],
   "skills": [
     {
-      "id": "skill-client",
-      "category": "客户端与跨端开发",
-      "items": [
-        "Dart",
-        "Kotlin",
-        "C++",
-        "Swift",
-        "CMake",
-        "Objective-C"
-      ]
-    },
-    {
       "id": "skill-frontend",
       "category": "前端开发",
       "items": [
         "TypeScript",
-        "JavaScript"
-      ]
-    },
-    {
-      "id": "skill-backend",
-      "category": "后端与工程化",
-      "items": [
-        "Shell",
-        "Rust",
-        "Python"
-      ]
-    },
-    {
-      "id": "skill-other",
-      "category": "其他技术",
-      "items": [
         "CSS",
-        "Ruby",
-        "C",
-        "PowerShell"
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Canvas API",
+        "UI 组件库",
+        "响应式设计"
       ]
     }
   ],
   "sectionOrder": [
     "summary",
-    "projects",
+    "education",
     "skills",
-    "experience",
-    "education"
+    "projects",
+    "experience"
   ]
 }
