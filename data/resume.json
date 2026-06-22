@@ -1,5 +1,5 @@
 {
-  "summary": "具备跨端应用开发能力的软件工程师，熟练运用 TypeScript、CSS 和 JavaScript 等技术，能独立完成复杂的前端项目，如 Voidnap CMS 和 VoidPix。",
+  "summary": "具备全栈开发能力的软件工程师，熟练运用 TypeScript、React、Next.js 等技术栈，能独立完成复杂项目的开发与维护。代表项目为 Voidnap CMS，一款基于 GitHub 的个人网站内容管理系统。",
   "experience": [],
   "projects": [
     {
@@ -7,18 +7,16 @@
       "sourceType": "linked",
       "projectId": "project-1770465390884",
       "title": "Voidnap CMS",
-      "role": "前端开发",
-      "period": "",
-      "description": "基于 GitHub 的个人网站内容管理系统，支持项目管理、博客发布和个人简历展示。",
-      "highlights": "",
+      "role": "全栈开发",
+      "period": "2023",
+      "description": "个人网站内容管理系统，支持项目管理、博客发布和个人简历展示。",
+      "highlights": "- 负责设计并实现基于 GitHub 的数据集成与用户认证流程\n- 设计并实现博客系统，支持 Markdown 格式渲染和分类管理\n- 开发个人简历展示功能，支持可视化编辑和 GitHub 集成",
       "tags": [
         "TypeScript",
-        "CSS",
-        "JavaScript",
+        "React",
         "Next.js",
-        "GitHub OAuth",
-        "Markdown",
-        "AI"
+        "GitHub",
+        "内容管理"
       ],
       "link": "https://voidnap-cms.vercel.app",
       "showLink": true
@@ -28,20 +26,43 @@
       "sourceType": "linked",
       "projectId": "project-1770536715630",
       "title": "VoidPix",
-      "role": "前端开发",
-      "period": "",
-      "description": "完全免费的在线图片处理工具，所有处理均在本地完成，确保用户隐私安全。",
-      "highlights": "",
+      "role": "全栈开发",
+      "period": "2023",
+      "description": "在线图片处理工具，所有处理均在本地完成，确保用户隐私安全。",
+      "highlights": "- 设计并实现响应式 UI，适配桌面和移动设备\n- 实现图片处理功能，包括格式转换、压缩和添加水印\n- 优化性能，确保快速响应和低延迟",
       "tags": [
         "TypeScript",
-        "CSS",
-        "JavaScript",
+        "React",
         "Canvas API",
-        "响应式设计",
-        "UI 组件库"
+        "图片处理",
+        "隐私安全"
       ],
       "link": "https://htao-123.github.io/voidpix/",
       "showLink": true
+    },
+    {
+      "id": "resume-project-1781578216350",
+      "sourceType": "linked",
+      "projectId": "project-1781578216350",
+      "title": "Shanion",
+      "role": "跨端应用开发",
+      "period": "2023",
+      "description": "多端本地优先碎片记录客户端，支持文本、链接、图片等碎片内容。",
+      "highlights": "- 设计并实现跨平台架构，支持 Android 和 macOS 平台\n- 实现数据本地存储和同步功能\n- 优化用户体验，提升应用性能和稳定性",
+      "tags": [
+        "Dart",
+        "Kotlin",
+        "C++",
+        "Swift",
+        "CMake",
+        "Shell",
+        "Rust",
+        "Ruby",
+        "Python",
+        "C"
+      ],
+      "link": "",
+      "showLink": false
     }
   ],
   "education": [
@@ -58,18 +79,24 @@
   ],
   "skills": [
     {
-      "id": "skill-frontend",
+      "id": "skill-1",
       "category": "前端开发",
-      "items": [
-        "TypeScript",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Next.js",
-        "Canvas API",
-        "UI 组件库",
-        "响应式设计"
-      ]
+      "content": "- 使用 TypeScript 和 React 进行前端开发、React、Next.js、TypeScript、JavaScript、Tailwind CSS、智谱 AI、LLM\n- 熟悉 Next.js 框架和 Tailwind CSS\n- 实现响应式设计和跨平台应用"
+    },
+    {
+      "id": "skill-2",
+      "category": "后端开发",
+      "content": "- 使用 Dart、Kotlin、C++ 等语言进行后端开发、Node.js、Python、REST API、OAuth、GitHub API\n- 熟悉 CMake 和 Shell 脚本\n- 实现跨平台架构和本地存储"
+    },
+    {
+      "id": "skill-3",
+      "category": "数据管理",
+      "content": "- 设计并实现数据集成和用户认证流程、JSON\n- 实现数据本地存储和同步功能\n- 优化数据结构和查询效率"
+    },
+    {
+      "id": "skill-4",
+      "category": "性能优化",
+      "content": "- 优化前端性能，提升响应速度和用户体验\n- 优化后端性能，降低延迟和资源消耗\n- 实现代码优化和性能测试"
     }
   ],
   "sectionOrder": [
