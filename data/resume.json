@@ -125,5 +125,12 @@
         "PowerShell"
       ]
     }
+  ],
+  "sectionOrder": [
+    "summary",
+    "projects",
+    "skills",
+    "experience",
+    "education"
   ]
 }
